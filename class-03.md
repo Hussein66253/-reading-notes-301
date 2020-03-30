@@ -7,7 +7,7 @@ Mustache is described as a *logic-less* system because it lacks *any explicit co
         
         Mustache.render(stay, {{place}}”, { place: home });   // returns: stay, home
     
-- In the above, we see **two braces** around *{ { place }}*. This is **Mustache syntax** to show that it is a *placeholder*. When Mustache compiles this, it will look for the **place** property in the object we pass in, and replace **{ {place }}** with the actual value, e,g, **home**.
+- In the above, we see **two braces** around *place*. This is **Mustache syntax** to show that it is a *placeholder*. When Mustache compiles this, it will look for the **place** property in the object we pass in, and replace *place* with the actual value, e,g, **home**.
 ## Flexbox
 - **What is use of Flexbox in CSS?**    
 
