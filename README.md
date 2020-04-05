@@ -11,7 +11,7 @@
   *class 04* | [link](https://hussein66253.github.io/-reading-notes-301/class-04)
   *class 05* | [link](https://hussein66253.github.io/-reading-notes-301/class-05)
   *class 06* | [link](https://hussein66253.github.io/-reading-notes-301/class-06)
-  *class 06* | [link](https://hussein66253.github.io/-reading-notes-301/class-07)
+  *class 07* | [link](https://hussein66253.github.io/-reading-notes-301/class-07)
 
 
  
