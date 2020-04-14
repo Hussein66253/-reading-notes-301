@@ -18,5 +18,8 @@
   *class 11* | [link](https://hussein66253.github.io/-reading-notes-301/class-11)
   *class 12* | [link](https://hussein66253.github.io/-reading-notes-301/class-12)
   *class 13* | [link](https://hussein66253.github.io/-reading-notes-301/class-13)
+  *class 14a* | [link](https://hussein66253.github.io/-reading-notes-301/class-14a)
+  *class 14b* | [link](https://hussein66253.github.io/-reading-notes-301/class-14b)
+
 
  
